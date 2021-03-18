@@ -6,7 +6,7 @@ body{
     margin: 0%;
     top: 50%;
     left: 50%;
-    position: relative;
+    position: absolute;
     display: flex;
     transform: translate(-50% -50%);
 }
@@ -35,5 +35,5 @@ body{
 
 .socal-manu ul li a:hover{
     background-color:blue;
-    color: thistle;
+    color: #fff;
 } 
