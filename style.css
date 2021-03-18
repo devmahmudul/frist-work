@@ -34,6 +34,6 @@ body{
 }
 
 .socal-manu ul li a:hover{
-    background-color: tomato;
+    background-color:blue;
     color: thistle;
-}
+} 
